@@ -1,0 +1,14 @@
+# 1. Crear proyecto
+npm create vite@latest pokemon-spa -- --template react
+
+# 2. Entrar a la carpeta
+cd pokemon-spa
+
+# 3. Instalar dependencias base
+npm install
+
+# 4. Instalar Zustand, React Router y Bootstrap
+npm install zustand react-router-dom bootstrap
+
+# 5. Levantar servidor
+npm run dev
